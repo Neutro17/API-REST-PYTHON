@@ -1,0 +1,22 @@
+{
+    
+    "usuarios": [{
+             
+        "id": 1,
+        "nome": "Georgia",
+        "idade": 34,
+        "email": "local@local.com",
+        "senha": "root"
+
+         } 
+    ],
+    
+    "produtos": [{
+   
+        "id": 1,
+        "nome": "Alface",
+        "preco": 32.00
+
+    }]
+
+}
